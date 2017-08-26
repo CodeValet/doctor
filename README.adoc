@@ -1,0 +1,7 @@
+= Doctor
+
+image::https://github.com/codevalet/doctor/raw/master/assets/bear-128.png[Rosalind]
+
+Doctor is a tool for proactively probing and testing the sanity/status of
+running Jenkins instances for link:http://codevalet.io[Code Valet].
+
